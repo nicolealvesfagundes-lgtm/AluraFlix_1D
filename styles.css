@@ -1,7 +1,11 @@
 body {
     color: rgb(102, 174, 151);
     background:rgb(106, 90, 205);
+     margin: 0px;
 }
 header {
-    border: solid 2px rgb(0, 203, 128)
+   border-bottom: solid 2px rgb(0, 203, 128)
+     padding: 20px;
+    font-size: 32px;
+    color: rgb(211, 131, 171);
 }
