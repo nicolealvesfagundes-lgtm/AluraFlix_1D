@@ -1,4 +1,7 @@
 body {
     color: rgb(102, 174, 151);
-    background: rgb(60, 60, 60);
+    background:rgb(106, 90, 205);
+}
+header {
+    border: solid 2px white;
 }
